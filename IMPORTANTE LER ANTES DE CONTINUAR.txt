@@ -1,0 +1,2 @@
+Acesse para instalar plugin de pdf do contrato:
+https://pub.dev/packages/pdfx
